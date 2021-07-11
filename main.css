@@ -260,6 +260,7 @@ html, body {
 
 .main .section .item {
   margin: 20px 0;
+  padding-bottom: 15px;
 }
 
 .main .section .item .what {
